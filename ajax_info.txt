@@ -1,0 +1,11 @@
+<table>
+<tr>
+	<td>Hello</td>
+	<td>AJAX</td>
+</tr>
+
+<tr>
+	<td>Hello</td>
+	<td>Divyansh Singhal</td>
+</tr>
+</table>
